@@ -15,7 +15,7 @@ This addon allows you to integrate Simple Membership plugin with the Affiliates 
 
 When a user pay for membership on your site, this addon will check to see if the user was referred to your site by an affiliate. It will then give commission to the affiliate who referred the user.
 
-This addon requires the [Affiliates Manager Plugin](https://wordpress.org/plugins/affiliates-manager/).
+This addon requires the [Affiliates Manager Plugin](https://wordpress.org/plugins/affiliates-manager/) and [Simple Membership Plugin](https://wordpress.org/plugins/simple-membership/).
 
 Read the usage documentation [here](https://wpaffiliatemanager.com/affiliates-manager-and-simple-membership-integration/)
 
